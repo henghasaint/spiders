@@ -10,6 +10,7 @@ This script allows you to search for corresponding positions on the seek website
 ## Prerequisites
 
 - Python 3.6.X installed on your system.
+- Chrome driver and Chrome Browser installed on your system.
 
 ## Setup
 
