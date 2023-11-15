@@ -9,8 +9,8 @@ This script allows you to customize keywords and then search for corresponding p
 
 ## Prerequisites
 
-- Python 3.6.X installed on your system.
-- Chrome driver and Chrome Browser installed on your system.
+- Python 3.6.X is installed on your system.
+- Chrome driver and Chrome Browser are installed on your system.
 
 ## Setup
 
