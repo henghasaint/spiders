@@ -1,6 +1,6 @@
 # About the script
 
-This script allows you to search for corresponding positions on the seek website by definition and save it to a csv file.
+This script allows you to customize keywords and then search for corresponding positions on the seek website and save them to a csv file.
 
 ## Features
 
