@@ -6,7 +6,7 @@ import csv
 from datetime import datetime
 
 # 搜索关键字
-KeyWord = 'DevOps'
+KeyWord = 'Systems Administrator'
 
 # Chromedriver路径
 chrome_driver_path = r'/Users/lxdluser01/chromedriver-mac-x64/chromedriver'
