@@ -17,15 +17,15 @@ This script allows you to customize keywords and then search for corresponding p
 1. Install python dependency packages
 
 ```
-pip3 install requests
-pip3 install selenium
-pip3 install beautifulsoup4
+pip3 install requests selenium beautifulsoup4
 ```
 
 2. Install ChromeDriver and Chrome Browser with specified version
 
 ```
-visit https://googlechromelabs.github.io/chrome-for-testing/ to download Chrome driver and Chrome browser, then place them in the following directories and unzip them.
+visit https://googlechromelabs.github.io/chrome-for-testing/ to download Chrome driver and Chrome browser,
+then place them in the following directories and unzip them:
+
 /Users/lxdluser01/
 ```
 
